@@ -173,7 +173,7 @@ MonoBehaviour:
   CurrentLevel: 0
   square: {fileID: 6747384628519253973, guid: 13ece621fcbb2d748a1f5cdf384a642d, type: 3}
   wall: {fileID: 8706808169800041393, guid: a1e025d79c3e6bb4ebf1a9214349e5ac, type: 3}
-  goal: {fileID: 5891351310142379432, guid: c1a0512b368965a4c8a959beb6da4193, type: 3}
+  goal: {fileID: 9155750405731026172, guid: c1a0512b368965a4c8a959beb6da4193, type: 3}
   levelhold: {fileID: 0}
 --- !u!114 &101274962
 MonoBehaviour:
@@ -483,7 +483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -355, y: 223}
+  m_AnchoredPosition: {x: -285, y: 217}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1228304159
